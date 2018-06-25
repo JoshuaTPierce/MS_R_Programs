@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/399357/4b9dc50ba33d403d9ebb5c07367db130
+bundleId: https://api.rpubs.com/api/v1/document/399357/4b9dc50ba33d403d9ebb5c07367db130
+url: http://rpubs.com/jpierce072/399357
+when: 1529774328.91357
